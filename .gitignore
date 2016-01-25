@@ -7,7 +7,7 @@
 ########################
 */build
 */dist
-*/mbproject/private
+*/nbproject/private
 .Trashes
 ehthumbs.db
 Thumbs.db
